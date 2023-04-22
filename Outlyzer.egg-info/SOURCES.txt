@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+Outlyzer/__init__.py
+Outlyzer/iqr.py
+Outlyzer/visual.py
+Outlyzer/zscore.py
+Outlyzer.egg-info/PKG-INFO
+Outlyzer.egg-info/SOURCES.txt
+Outlyzer.egg-info/dependency_links.txt
+Outlyzer.egg-info/requires.txt
+Outlyzer.egg-info/top_level.txt
