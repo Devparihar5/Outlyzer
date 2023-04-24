@@ -12,4 +12,5 @@ Usage:
     - Pass your dataset or data series to the respective function, e.g.:
         outliers_zscore = detect_outliers_zscore(data)
         outliers_iqr = detect_outliers_iqr(data)
-    - The functions will return a boolean array indicating whether each data point is an outlier (True) or not (False).
+    
+    The functions will return a boolean array indicating whether each data point is an outlier (True) or not (False).
