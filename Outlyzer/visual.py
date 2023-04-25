@@ -18,6 +18,7 @@ def scatter_plot(data, x_column, y_column):
     plt.title(f'Scatter plot of {x_column} vs {y_column}')
     plt.show()
 
+    
 def box_plot(data, column):
     """
     Creates a box plot of the data for the specified column.

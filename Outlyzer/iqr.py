@@ -11,7 +11,7 @@ def detect_outliers_iqr(data, multiplier=1.5):
         multiplier (float): Multiplier for IQR. Data points below Q1 - multiplier * IQR
                            and above Q3 + multiplier * IQR are considered as outliers.
                            Default is 1.5.
-    
+
     Returns:
         numpy.ndarray: Boolean array with True for outlier data points and False otherwise.
     """
