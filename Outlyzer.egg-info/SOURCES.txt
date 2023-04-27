@@ -3,6 +3,11 @@ README.md
 setup.py
 Outlyzer/__init__.py
 Outlyzer/iqr.py
+<<<<<<< HEAD
+=======
+Outlyzer/least_squares.py
+Outlyzer/probabilistic.py
+>>>>>>> master
 Outlyzer/visual.py
 Outlyzer/zscore.py
 Outlyzer.egg-info/PKG-INFO
