@@ -4,7 +4,7 @@
 Outlyzer is a Python library that provides various methods for detecting outliers in a dataset. It includes implementation of Z-score, IQR, and Mahalanobis distance methods for identifying outliers, as well as visualization-based methods using scatter plots, box plots, and other types of visualizations.
 
 
-### Installation
+## Installation
 You can install Outlyzer using pip:
 ```
 pip install outlyzer
@@ -22,3 +22,11 @@ Usage:
         outliers_iqr = detect_outliers_iqr(data)
     
     The functions will return a boolean array indicating whether each data point is an outlier (True) or not (False).
+
+
+## 
+<p align="center">
+  <a href="https://star-history.com/#Torantulino/auto-gpt&Date">
+    <img src="https://api.star-history.com/svg?repos=Torantulino/auto-gpt&type=Date" alt="Star History Chart">
+  </a>
+</p>
