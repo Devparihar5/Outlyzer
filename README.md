@@ -3,6 +3,14 @@
 
 Outlyzer is a Python library that provides various methods for detecting outliers in a dataset. It includes implementation of Z-score, IQR, and Mahalanobis distance methods for identifying outliers, as well as visualization-based methods using scatter plots, box plots, and other types of visualizations.
 
+
+### Installation
+You can install Outlyzer using pip:
+```
+pip install outlyzer
+```
+
+
 Usage:
 
     - Import the desired method from the library, e.g.:
