@@ -26,7 +26,7 @@ Usage:
 
 ## 
 <p align="center">
-  <a href="https://star-history.com/#Torantulino/auto-gpt&Date">
-    <img src="https://api.star-history.com/svg?repos=Torantulino/auto-gpt&type=Date" alt="Star History Chart">
+  <a href="https://star-history.com/#devparihar5/Outlyzer&Date">
+    <img src="https://api.star-history.com/svg?repos=Devparihar5/Outlyzer&type=Date" alt="Star History Chart">
   </a>
 </p>
